@@ -1,91 +1,307 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Anshuman Verma — Full-stack developer and creative technologist" width="100%" />
+  <img src="./assets/hero.svg" width="100%" alt="Anshuman Verma — Full Stack Developer & Creative Technologist" />
 </p>
 
-<br />
+<br>
 
-<sub>01 / INTRODUCTION</sub>
+<div align="center">
 
-## Engineering with an eye for atmosphere.
+# ANSHUMAN VERMA
 
-I make digital products that are as considered underneath as they are on screen: clear interfaces, resilient systems, and the small decisions that give software a point of view. My practice moves between web, mobile, backend infrastructure, and AI-enabled tools.
+### FULL-STACK DEVELOPER · CREATIVE TECHNOLOGIST
 
-<br />
+Building digital products where **engineering, design and intelligent systems** meet.
 
-<sub>02 / NOW</sub>
+<br>
 
-**01 — BUILDING** &nbsp; [ATELIER](https://atelier.studio.in) — a digital studio for editorial websites, identity systems, UI/UX, and cinematic online experiences.
+[PORTFOLIO](https://aterlierexperience.vercel.app) &nbsp;·&nbsp;
+[LINKEDIN](https://www.linkedin.com/in/anshuman-verma-108791328) &nbsp;·&nbsp;
+[GITHUB](https://github.com/AnshumanVerma-goat) &nbsp;·&nbsp;
+[EMAIL](mailto:anshumanverma027@gmail.com)
 
-**02 — SHIPPING** &nbsp; Full-stack products, geospatial workflows, and mobile applications with a deliberate product surface.
+</div>
 
-**03 — EXPLORING** &nbsp; AI / RAG systems, system design, and distributed architecture.
-
-**04 — LEARNING** &nbsp; Kubernetes and the practical mechanics of reliable, composable infrastructure.
-
-<br />
-
-<sub>03 / SELECTED WORK</sub>
-
-## Work with a clear point of view.
-
-### 01 — [ATELIER ↗](https://atelier.studio.in)
-
-<sub>DIGITAL STUDIO / WEB / IDENTITY</sub>
-
-Editorial websites, branding, product interfaces, and cinematic digital experiences—built for ideas that need more than a template.
-
-### 02 — JAIVAM JEEVAN
-
-<sub>AGRICULTURE × AI × TECHNOLOGY</sub>
-
-Project work connecting field-ready mobile experiences with FastAPI services, PostgreSQL/PostGIS, AI/RAG exploration, and Hyperledger Fabric research.
-
-<sub>REACT NATIVE &nbsp; / &nbsp; FASTAPI &nbsp; / &nbsp; POSTGRESQL + POSTGIS &nbsp; / &nbsp; AI + RAG &nbsp; / &nbsp; HYPERLEDGER FABRIC</sub>
-
-<br />
-
-<sub>04 / TOOLS OF THE PRACTICE</sub>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,fastapi,nodejs,postgres,docker,git,github&theme=dark&perline=12" alt="Python, C++, TypeScript, JavaScript, React, Next.js, FastAPI, Node.js, PostgreSQL, Docker, Git, and GitHub" />
-</a>
-
-<sub>PYTHON · C++ · TYPESCRIPT · JAVASCRIPT · REACT · NEXT.JS · REACT NATIVE · FASTAPI · NODE.JS · POSTGRESQL / POSTGIS · DOCKER · GIT / GITHUB</sub>
-
-<br />
-
-<sub>05 / HOW I BUILD</sub>
-
-**01 — ORIENT** &nbsp; Find the real constraints before proposing the visible solution.
-
-**02 — COMPOSE** &nbsp; Give information, interaction, and motion a reason to exist.
-
-**03 — ENGINEER** &nbsp; Choose the boringly reliable path, then make it feel effortless.
-
-**04 — REFINE** &nbsp; Resolve the details that quietly decide whether something feels finished.
-
-<br />
-
-<sub>06 / SIGNAL</sub>
-
-[CONTRIBUTION HISTORY ↗](https://github.com/AnshumanVerma-goat?tab=overview&from=2026-01-01&to=2026-12-31) &nbsp;&nbsp; [OPEN SOURCE ↗](https://github.com/AnshumanVerma-goat?tab=repositories)
-
-<br />
-
-<sub>07 / CONTACT</sub>
-
-[EMAIL ↗](mailto:anshumanverma027@gmail.com) &nbsp;&nbsp; [LINKEDIN ↗](https://www.linkedin.com/in/anshuman-verma-108791328) &nbsp;&nbsp; [GITHUB ↗](https://github.com/AnshumanVerma-goat) &nbsp;&nbsp; [ATELIER ↗](https://atelier.studio.in)
-
-<br />
-
-<sub>INDIA · 2026 &nbsp;&nbsp; / &nbsp;&nbsp; +91 78690 55374</sub>
-
-<br />
+<br><br>
 
 ---
 
-<p align="center">
-  <sub>ANSHUMAN VERMA &nbsp;·&nbsp; FULL-STACK DEVELOPER / CREATIVE TECHNOLOGIST</sub>
-  <br /><br />
-  <sub>Build with intention. Let the work carry its own weight.</sub>
-</p>
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 01 — PROFILE
+
+I’m a full-stack developer and creative technologist focused on building **high-quality digital experiences**.
+
+My work sits between:
+
+**PRODUCT**  
+Interfaces, platforms & applications
+
+**ENGINEERING**  
+Architecture, APIs & scalable systems
+
+**DESIGN**  
+Typography, interaction & visual direction
+
+**AI**  
+RAG systems, intelligent workflows & applied AI
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+BASED IN        INDIA
+
+ROLE            FULL-STACK
+                DEVELOPER
+
+SPECIALTY       DIGITAL
+                EXPERIENCES
+
+CURRENTLY       BUILDING
+                + LEARNING
+
+STATUS          ONLINE
+                / AVAILABLE
+</td> </tr> </table>
+
+<br><br>
+
+SELECTED WORK
+<br>
+02 / ATELIER
+A DIGITAL STUDIO FOR BRANDS THAT CARE ABOUT DETAIL.
+
+ATELIER is my creative studio focused on premium websites,
+editorial interfaces, branding and cinematic digital experiences.
+
+Design-led.
+Minimal.
+Deliberate.
+
+SERVICES
+
+WEB DESIGN · UI/UX · BRANDING · FULL-STACK DEVELOPMENT
+
+<br>
+
+VISIT →
+https://aterlierexperience.vercel.app
+
+<br><br>
+
+<br>
+03 / JAIVAM JEEVAN
+AGRICULTURE × AI × TECHNOLOGY
+
+A mobile-first platform designed to transform agricultural
+knowledge into personalized, actionable experiences.
+
+REACT NATIVE
+      ↓
+FASTAPI
+      ↓
+POSTGRESQL + POSTGIS
+      ↓
+AI / RAG
+      ↓
+HYPERLEDGER FABRIC
+
+The system explores how AI, location intelligence,
+blockchain and agricultural science can work together
+inside a single product.
+
+<br>
+
+FOCUS
+
+AI ADVISORY
+FARMER PASSPORT
+GEO-SPATIAL DATA
+OFFLINE-FIRST UX
+
+<br><br>
+
+<br>
+THE STACK
+04 / TOOLS OF PRACTICE
+
+I don't collect technologies.
+
+I use them to build things.
+
+<br>
+LANGUAGES
+
+Python C++ TypeScript JavaScript
+
+FRONTEND
+
+React Next.js React Native
+
+BACKEND
+
+FastAPI Node.js
+
+DATA
+
+PostgreSQL PostGIS
+
+INFRASTRUCTURE
+
+Docker Git GitHub
+
+EXPLORING
+
+Kubernetes RAG System Design Distributed Systems
+Hyperledger Fabric
+
+<br><br>
+
+<br>
+HOW I BUILD
+05 / THE SYSTEM
+        ┌───────────────────────┐
+        │       DISCOVER        │
+        │                       │
+        │  problem / context    │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │        DESIGN         │
+        │                       │
+        │  structure / visual   │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │       ENGINEER        │
+        │                       │
+        │  frontend / backend   │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │        SHIP           │
+        │                       │
+        │  deploy / measure     │
+        └───────────────────────┘
+<br>
+PRINCIPLES
+
+01 — Make it useful.
+02 — Make it beautiful.
+03 — Make it fast.
+04 — Make it understandable.
+05 — Then make it scale.
+
+<br><br>
+
+<br>
+CURRENTLY
+06 / NOW
+LEARNING
+────────────────────────────────────────
+
+C++ / DSA
+SYSTEM DESIGN
+KUBERNETES
+DISTRIBUTED SYSTEMS
+AI / RAG ARCHITECTURES
+
+
+BUILDING
+────────────────────────────────────────
+
+ATELIER
+FULL-STACK PRODUCTS
+AI-POWERED SYSTEMS
+DIGITAL EXPERIENCES
+
+
+INTERESTED IN
+────────────────────────────────────────
+
+CREATIVE TECHNOLOGY
+PRODUCT ENGINEERING
+GENERATIVE AI
+SPATIAL / GEO DATA
+DECENTRALIZED SYSTEMS
+
+<br><br>
+
+<br>
+THE LAB
+07 / THINGS I'M EXPLORING
+<table> <tr> <td width="33%" valign="top">
+AI SYSTEMS
+
+RAG architectures
+AI advisory engines
+Knowledge systems
+Context retrieval
+
+</td> <td width="33%" valign="top">
+INFRASTRUCTURE
+
+Docker
+Kubernetes
+Distributed systems
+Scalable APIs
+
+</td> <td width="33%" valign="top">
+DIGITAL
+
+Creative development
+Motion
+Editorial UI
+Interaction design
+
+</td> </tr> </table>
+
+<br><br>
+
+<br>
+CONTACT
+08 / LET'S BUILD SOMETHING.
+
+If you're building a product, brand or idea
+that deserves more than a template —
+
+let's talk.
+
+<br>
+EMAIL
+
+anshumanverma027@gmail.com
+
+LINKEDIN
+
+linkedin.com/in/anshuman-verma-108791328
+
+ATELIER
+
+aterlierexperience.vercel.app
+
+PHONE
+
++91 78690 55374
+
+<br><br>
+
+<br> <div align="center">
+ANSHUMAN VERMA
+FULL-STACK DEVELOPER / CREATIVE TECHNOLOGIST
+
+DESIGN × ENGINEERING × INTELLIGENCE
+<br>
+
+BUILDING THINGS WORTH REMEMBERING.
+
+<br><br>
+
+↑ BACK TO TOP
+
+</div>
