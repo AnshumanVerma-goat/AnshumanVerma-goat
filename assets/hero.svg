@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Anshuman Verma</title>
+  <desc id="desc">Full-stack developer and creative technologist based in India.</desc>
+  <rect width="1200" height="440" fill="#0d1117"/>
+  <g fill="none" stroke="#30363d" stroke-width="1">
+    <path d="M0 48H1200M0 392H1200M48 0V440M1152 0V440"/>
+    <path d="M0 220H1200" stroke="#21262d"/>
+  </g>
+  <g fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">
+    <text x="48" y="80">INDIA / 2026</text>
+    <text x="1152" y="80" text-anchor="end">ENGINEERING × DESIGN</text>
+    <text x="48" y="374">WEB / MOBILE / SYSTEMS</text>
+    <text x="1152" y="374" text-anchor="end">PROFILE // 01</text>
+  </g>
+  <text x="48" y="213" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="124" font-weight="700" letter-spacing="-7">ANSHUMAN</text>
+  <rect x="48" y="250" width="72" height="3" fill="#58a6ff"/>
+  <g fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.4">
+    <text x="48" y="298">FULL-STACK DEVELOPER</text>
+    <text x="48" y="326">CREATIVE TECHNOLOGIST</text>
+  </g>
+  <text x="1152" y="298" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end">DIGITAL PRODUCTS</text>
+  <text x="1152" y="326" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end">WITH A POINT OF VIEW</text>
+</svg>
