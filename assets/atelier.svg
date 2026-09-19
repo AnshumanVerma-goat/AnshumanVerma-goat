@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Atelier studio identity</title>
+  <desc id="desc">Editorial studio poster for Atelier with luxury brand language, geometric frames, and typography.</desc>
+  <rect width="1200" height="520" fill="#f4efe8"/>
+  <g stroke="#141414" stroke-opacity="0.18" stroke-width="1">
+    <path d="M0 96H1200M0 424H1200M96 0V520M1080 0V520"/>
+  </g>
+  <text x="96" y="78" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">01 / ATELIER</text>
+  <text x="96" y="220" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="700" letter-spacing="-8">ATELIER</text>
+  <text x="96" y="278" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="8">DIGITAL STUDIO</text>
+  <g fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">
+    <text x="96" y="325">EDITORIAL WEB</text>
+    <text x="96" y="356">BRAND SYSTEMS</text>
+    <text x="96" y="387">CINEMATIC UI</text>
+  </g>
+  <rect x="728" y="104" width="350" height="280" fill="none" stroke="#141414" stroke-width="2"/>
+  <path d="M768 142H1048M768 330H1048M768 142V330M1048 142V330M768 236H1048" stroke="#141414" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <rect x="810" y="178" width="196" height="112" fill="#141414"/>
+  <rect x="830" y="198" width="156" height="72" fill="#f4efe8" stroke="#141414" stroke-width="2"/>
+  <g fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">
+    <text x="848" y="220">EDITORIAL</text>
+    <text x="856" y="248">LUXURY</text>
+    <text x="860" y="276">SYSTEM</text>
+  </g>
+  <g fill="#8d6a4f" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">
+    <text x="96" y="470">ATERLIEREXPERIENCE.VERCEL.APP</text>
+  </g>
+</svg>

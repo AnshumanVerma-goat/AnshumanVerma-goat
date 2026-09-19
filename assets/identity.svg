@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Identity grid</title>
+  <desc id="desc">Editorial grid with coordinates and the phrase engineering, design, and intelligent systems.</desc>
+  <rect width="1200" height="360" fill="#f4efe8"/>
+  <g stroke="#141414" stroke-opacity="0.18" stroke-width="1">
+    <path d="M0 72H1200M0 180H1200M0 288H1200M120 0V360M360 0V360M600 0V360M840 0V360M1080 0V360"/>
+  </g>
+  <g fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">
+    <text x="56" y="42">01 / IDENTITY</text>
+    <text x="56" y="324">ENGINEERING × DESIGN × INTELLIGENCE</text>
+  </g>
+  <g fill="#141414" font-family="Arial, Helvetica, sans-serif">
+    <text x="84" y="130" font-size="28" font-weight="700" letter-spacing="-1">I BUILD DIGITAL PRODUCTS</text>
+    <text x="84" y="174" font-size="28" font-weight="700" letter-spacing="-1">AT THE INTERSECTION OF</text>
+    <text x="84" y="218" font-size="28" font-weight="700" letter-spacing="-1">ENGINEERING, DESIGN,</text>
+    <text x="84" y="262" font-size="28" font-weight="700" letter-spacing="-1">AND INTELLIGENT SYSTEMS.</text>
+  </g>
+  <rect x="925" y="78" width="160" height="160" fill="none" stroke="#8d6a4f" stroke-width="2"/>
+  <g fill="#8d6a4f" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">
+    <text x="952" y="111">FRONTEND</text>
+    <text x="952" y="139">BACKEND</text>
+    <text x="952" y="167">AI</text>
+    <text x="952" y="195">SYSTEMS</text>
+    <text x="952" y="223">DESIGN</text>
+  </g>
+  <circle cx="1037" cy="200" r="4" fill="#8d6a4f"/>
+  <path d="M1037 200L980 200M1037 200L1037 168" stroke="#8d6a4f" stroke-width="2" fill="none"/>
+</svg>
