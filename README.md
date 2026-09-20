@@ -42,7 +42,7 @@
         ATELIER is a design practice focused on editorial experiences, luxury brand systems and technically precise interfaces. The work moves through architecture, typography and atmosphere — built for businesses that want clarity, a point of view and a digital presence that feels real.
       </p>
       <p style="margin-top: 18px; font-size: 16px; letter-spacing: 2px; text-transform: uppercase;">
-        <a href="https://aterlierexperience.vercel.app">ATERLIEREXPERIENCE.VERCEL.APP</a>
+        <a href="https://atelierexperience.vercel.app/">ATERLIEREXPERIENCE.VERCEL.APP</a>
       </p>
     </td>
     <td width="42%" valign="top">
