@@ -1,24 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Footer composition</title>
-  <desc id="desc">Minimal editorial footer with contact typography and geometric frame.</desc>
-  <rect width="1200" height="260" fill="#f4efe8"/>
-  <g stroke="#141414" stroke-opacity="0.2" stroke-width="1">
-    <path d="M0 52H1200M0 208H1200M100 0V260M1100 0V260"/>
-  </g>
-  <g fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4">
-    <text x="100" y="88">GITHUB</text>
-    <text x="100" y="122">LINKEDIN</text>
-    <text x="100" y="156">EMAIL</text>
-    <text x="100" y="190">ATELIER</text>
-  </g>
-  <g fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-1">
-    <text x="590" y="108">LET'S</text>
-    <text x="590" y="150">BUILD</text>
-    <text x="590" y="192">SOMETHING</text>
-  </g>
-  <g fill="#8d6a4f" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">
-    <text x="980" y="88" text-anchor="end">ANSHUMAN VERMA</text>
-    <text x="980" y="108" text-anchor="end">FULL-STACK DEVELOPER / CREATIVE TECHNOLOGIST</text>
-    <text x="980" y="128" text-anchor="end">2026</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" role="img" aria-labelledby="title desc">
+  <title id="title">Anshuman Verma footer</title>
+  <desc id="desc">Engineering, design and intelligence.</desc>
+  <rect width="1200" height="100" fill="#111318"/><path d="M32 28H1168M32 72H1168" stroke="#343a35"/><circle cx="60" cy="50" r="7" fill="#b7ff4a"/><g fill="#f5f5f2" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3"><text x="84" y="56">ANSHUMAN VERMA</text><text x="1138" y="56" text-anchor="end">ENGINEERING × DESIGN × INTELLIGENCE</text></g>
 </svg>

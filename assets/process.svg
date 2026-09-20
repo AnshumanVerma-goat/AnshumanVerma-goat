@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Product building process</title>
+  <desc id="desc">Six concise stages: observe, model, design, engineer, ship, iterate.</desc>
+  <rect width="900" height="300" fill="#111318"/><g fill="none" stroke="#343a35"><path d="M42 42H858M42 258H858M42 42V258M858 42V258M42 150H858"/><path d="M178 42V258M314 42V258M450 42V258M586 42V258M722 42V258"/></g>
+  <g fill="#aeb7a9" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2"><text x="62" y="78">01</text><text x="198" y="78">02</text><text x="334" y="78">03</text><text x="470" y="78">04</text><text x="606" y="78">05</text><text x="742" y="78">06</text></g>
+  <g fill="#f5f5f2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1"><text x="62" y="190">OBSERVE</text><text x="198" y="190">MODEL</text><text x="334" y="190">DESIGN</text><text x="470" y="190">ENGINEER</text><text x="606" y="190">SHIP</text><text x="742" y="190">ITERATE</text></g>
+  <path d="M62 220H838" stroke="#b7ff4a" stroke-width="3"/><circle cx="62" cy="220" r="5" fill="#b7ff4a"/><circle cx="838" cy="220" r="5" fill="#b7ff4a"/>
+</svg>
