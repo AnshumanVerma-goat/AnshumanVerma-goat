@@ -30,7 +30,7 @@
       <p style="margin: 0 0 14px; font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; color: #69706a;">Editorial web / brand systems / cinematic UI</p>
       <p style="margin: 0; font-size: 16px; line-height: 1.6; color: #303630;">A design practice for editorial experiences, luxury brand systems and technically precise interfaces.</p>
       <p style="margin: 16px 0 0; font-size: 12px; line-height: 1.7; color: #69706a;"><strong>STACK</strong><br>Next.js / React / TypeScript / UI/UX</p>
-      <p style="margin: 16px 0 0;"><a href="https://aterlierexperience.vercel.app"><strong>VISIT ATELIER ↗</strong></a></p>
+      <p style="margin: 16px 0 0;"><a href="https://atelierexperience.vercel.app/"><strong>VISIT ATELIER ↗</strong></a></p>
     </td>
   </tr>
 </table>
